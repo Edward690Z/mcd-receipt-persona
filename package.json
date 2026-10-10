@@ -1,0 +1,15 @@
+{
+  "name": "mcd-receipt-persona",
+  "version": "1.0.0",
+  "description": "麦味人格：把麦当劳近期订单变成「小票 + 餐盘 + 薯条盒 + 终端 + 叫号屏」风格的点餐人格故事卡（麦当劳 MCP Skill）",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "demo": "node skills/mcd-receipt-persona/scripts/wrapped.mjs --demo --out output --png",
+    "atlas": "node skills/mcd-receipt-persona/scripts/wrapped.mjs --atlas --out output --png",
+    "assets": "node scripts/build-assets.mjs",
+    "fetch": "node skills/mcd-receipt-persona/scripts/fetch-orders.mjs --out output/history.json",
+    "report": "node skills/mcd-receipt-persona/scripts/wrapped.mjs --input output/history.json --out output --png"
+  }
+}

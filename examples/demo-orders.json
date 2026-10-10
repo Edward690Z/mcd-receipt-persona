@@ -1,0 +1,1279 @@
+{
+  "orders": [
+    {
+      "id": "DEMO0001",
+      "time": "2026-01-05 13:22:00",
+      "type": "堂食",
+      "amount": 43,
+      "discount": 7,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "猪柳蛋麦满分",
+          "qty": 1,
+          "price": 14
+        },
+        {
+          "name": "麦辣鸡腿堡套餐",
+          "qty": 1,
+          "price": 36
+        }
+      ]
+    },
+    {
+      "id": "DEMO0002",
+      "time": "2026-01-16 20:15:00",
+      "type": "麦乐送",
+      "amount": 55,
+      "discount": 17,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "麦辣鸡腿堡套餐",
+          "qty": 2,
+          "price": 36
+        }
+      ]
+    },
+    {
+      "id": "DEMO0003",
+      "time": "2026-01-18 09:22:00",
+      "type": "麦乐送",
+      "amount": 65,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "麦旋风",
+          "qty": 1,
+          "price": 14
+        },
+        {
+          "name": "美式咖啡",
+          "qty": 1,
+          "price": 12
+        },
+        {
+          "name": "巨无霸套餐",
+          "qty": 1,
+          "price": 39
+        }
+      ]
+    },
+    {
+      "id": "DEMO0004",
+      "time": "2026-01-22 23:11:00",
+      "type": "麦乐送",
+      "amount": 73,
+      "discount": 29,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "麦辣鸡翅(4块)",
+          "qty": 1,
+          "price": 18
+        },
+        {
+          "name": "美式咖啡",
+          "qty": 1,
+          "price": 12
+        },
+        {
+          "name": "麦辣鸡腿堡套餐",
+          "qty": 2,
+          "price": 36
+        }
+      ]
+    },
+    {
+      "id": "DEMO0005",
+      "time": "2026-01-23 19:48:00",
+      "type": "麦乐送",
+      "amount": 41,
+      "discount": 7,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "中可乐",
+          "qty": 1,
+          "price": 9
+        },
+        {
+          "name": "巨无霸套餐",
+          "qty": 1,
+          "price": 39
+        }
+      ]
+    },
+    {
+      "id": "DEMO0006",
+      "time": "2026-01-25 10:51:00",
+      "type": "麦乐送",
+      "amount": 64,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "玉米杯",
+          "qty": 1,
+          "price": 8
+        },
+        {
+          "name": "麦乐鸡(5块)",
+          "qty": 2,
+          "price": 12
+        },
+        {
+          "name": "麦麦脆汁鸡(2块)",
+          "qty": 1,
+          "price": 32
+        }
+      ]
+    },
+    {
+      "id": "DEMO0007",
+      "time": "2026-01-26 10:12:00",
+      "type": "麦乐送",
+      "amount": 44,
+      "discount": 8,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "圆筒冰淇淋",
+          "qty": 2,
+          "price": 6
+        },
+        {
+          "name": "双层吉士汉堡",
+          "qty": 1,
+          "price": 20
+        },
+        {
+          "name": "双层吉士汉堡",
+          "qty": 1,
+          "price": 20
+        }
+      ]
+    },
+    {
+      "id": "DEMO0008",
+      "time": "2026-02-06 09:08:00",
+      "type": "麦乐送",
+      "amount": 42,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "板烧鸡腿堡",
+          "qty": 1,
+          "price": 22
+        },
+        {
+          "name": "双层吉士汉堡",
+          "qty": 1,
+          "price": 20
+        }
+      ]
+    },
+    {
+      "id": "DEMO0009",
+      "time": "2026-02-07 22:11:00",
+      "type": "麦乐送",
+      "amount": 7,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "薯饼",
+          "qty": 1,
+          "price": 7
+        }
+      ]
+    },
+    {
+      "id": "DEMO0010",
+      "time": "2026-02-08 10:11:00",
+      "type": "得来速",
+      "amount": 74,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "板烧鸡腿堡",
+          "qty": 2,
+          "price": 22
+        },
+        {
+          "name": "拿铁",
+          "qty": 2,
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "DEMO0011",
+      "time": "2026-02-10 23:31:00",
+      "type": "堂食",
+      "amount": 40,
+      "discount": 17,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "中薯条",
+          "qty": 1,
+          "price": 11
+        },
+        {
+          "name": "薯饼",
+          "qty": 1,
+          "price": 7
+        },
+        {
+          "name": "巨无霸套餐",
+          "qty": 1,
+          "price": 39
+        }
+      ]
+    },
+    {
+      "id": "DEMO0012",
+      "time": "2026-02-11 16:31:00",
+      "type": "麦乐送",
+      "amount": 33,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "中薯条",
+          "qty": 1,
+          "price": 11
+        },
+        {
+          "name": "苹果派",
+          "qty": 1,
+          "price": 8
+        },
+        {
+          "name": "猪柳蛋麦满分",
+          "qty": 1,
+          "price": 14
+        }
+      ]
+    },
+    {
+      "id": "DEMO0013",
+      "time": "2026-02-12 08:45:00",
+      "type": "麦乐送",
+      "amount": 48,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "中薯条",
+          "qty": 2,
+          "price": 11
+        },
+        {
+          "name": "大薯条",
+          "qty": 1,
+          "price": 14
+        },
+        {
+          "name": "美式咖啡",
+          "qty": 1,
+          "price": 12
+        }
+      ]
+    },
+    {
+      "id": "DEMO0014",
+      "time": "2026-02-25 20:02:00",
+      "type": "得来速",
+      "amount": 23,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "中薯条",
+          "qty": 1,
+          "price": 11
+        },
+        {
+          "name": "美式咖啡",
+          "qty": 1,
+          "price": 12
+        }
+      ]
+    },
+    {
+      "id": "DEMO0015",
+      "time": "2026-02-27 21:51:00",
+      "type": "麦乐送",
+      "amount": 32,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "麦麦脆汁鸡(2块)",
+          "qty": 1,
+          "price": 32
+        }
+      ]
+    },
+    {
+      "id": "DEMO0016",
+      "time": "2026-03-02 08:38:00",
+      "type": "麦乐送",
+      "amount": 15,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "拿铁",
+          "qty": 1,
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "DEMO0017",
+      "time": "2026-03-10 20:18:00",
+      "type": "麦乐送",
+      "amount": 20,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "麦乐鸡(5块)",
+          "qty": 1,
+          "price": 12
+        },
+        {
+          "name": "玉米杯",
+          "qty": 1,
+          "price": 8
+        }
+      ]
+    },
+    {
+      "id": "DEMO0018",
+      "time": "2026-03-27 23:05:00",
+      "type": "麦乐送",
+      "amount": 19,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "苹果派",
+          "qty": 1,
+          "price": 8
+        },
+        {
+          "name": "中薯条",
+          "qty": 1,
+          "price": 11
+        }
+      ]
+    },
+    {
+      "id": "DEMO0019",
+      "time": "2026-03-29 20:18:00",
+      "type": "麦乐送",
+      "amount": 114,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "麦辣鸡腿堡套餐",
+          "qty": 1,
+          "price": 36
+        },
+        {
+          "name": "圆筒冰淇淋",
+          "qty": 1,
+          "price": 6
+        },
+        {
+          "name": "麦辣鸡腿堡套餐",
+          "qty": 2,
+          "price": 36
+        }
+      ]
+    },
+    {
+      "id": "DEMO0020",
+      "time": "2026-04-05 16:27:00",
+      "type": "麦乐送",
+      "amount": 8,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "玉米杯",
+          "qty": 1,
+          "price": 8
+        }
+      ]
+    },
+    {
+      "id": "DEMO0021",
+      "time": "2026-04-06 12:13:00",
+      "type": "堂食",
+      "amount": 108,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "拿铁",
+          "qty": 2,
+          "price": 15
+        },
+        {
+          "name": "巨无霸套餐",
+          "qty": 2,
+          "price": 39
+        }
+      ]
+    },
+    {
+      "id": "DEMO0022",
+      "time": "2026-04-16 15:16:00",
+      "type": "麦乐送",
+      "amount": 50,
+      "discount": 9,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "麦旋风",
+          "qty": 1,
+          "price": 14
+        },
+        {
+          "name": "巨无霸套餐",
+          "qty": 1,
+          "price": 39
+        },
+        {
+          "name": "圆筒冰淇淋",
+          "qty": 1,
+          "price": 6
+        }
+      ]
+    },
+    {
+      "id": "DEMO0023",
+      "time": "2026-04-18 08:22:00",
+      "type": "麦乐送",
+      "amount": 43,
+      "discount": 10,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "巨无霸套餐",
+          "qty": 1,
+          "price": 39
+        },
+        {
+          "name": "麦旋风",
+          "qty": 1,
+          "price": 14
+        }
+      ]
+    },
+    {
+      "id": "DEMO0024",
+      "time": "2026-04-22 23:53:00",
+      "type": "麦乐送",
+      "amount": 19,
+      "discount": 7,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "双层吉士汉堡",
+          "qty": 1,
+          "price": 20
+        },
+        {
+          "name": "圆筒冰淇淋",
+          "qty": 1,
+          "price": 6
+        }
+      ]
+    },
+    {
+      "id": "DEMO0025",
+      "time": "2026-04-23 22:35:00",
+      "type": "麦乐送",
+      "amount": 42,
+      "discount": 23,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "麦旋风",
+          "qty": 1,
+          "price": 14
+        },
+        {
+          "name": "巨无霸套餐",
+          "qty": 1,
+          "price": 39
+        },
+        {
+          "name": "美式咖啡",
+          "qty": 1,
+          "price": 12
+        }
+      ]
+    },
+    {
+      "id": "DEMO0026",
+      "time": "2026-04-24 15:53:00",
+      "type": "麦乐送",
+      "amount": 39,
+      "discount": 17,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "大薯条",
+          "qty": 1,
+          "price": 14
+        },
+        {
+          "name": "猪柳蛋麦满分",
+          "qty": 1,
+          "price": 14
+        },
+        {
+          "name": "猪柳蛋麦满分",
+          "qty": 2,
+          "price": 14
+        }
+      ]
+    },
+    {
+      "id": "DEMO0027",
+      "time": "2026-04-25 15:56:00",
+      "type": "堂食",
+      "amount": 14,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "麦旋风",
+          "qty": 1,
+          "price": 14
+        }
+      ]
+    },
+    {
+      "id": "DEMO0028",
+      "time": "2026-04-27 10:17:00",
+      "type": "麦乐送",
+      "amount": 42,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "麦乐鸡(5块)",
+          "qty": 1,
+          "price": 12
+        },
+        {
+          "name": "板烧鸡腿堡",
+          "qty": 1,
+          "price": 22
+        },
+        {
+          "name": "苹果派",
+          "qty": 1,
+          "price": 8
+        }
+      ]
+    },
+    {
+      "id": "DEMO0029",
+      "time": "2026-05-02 08:58:00",
+      "type": "麦乐送",
+      "amount": 70,
+      "discount": 8,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "巨无霸套餐",
+          "qty": 2,
+          "price": 39
+        }
+      ]
+    },
+    {
+      "id": "DEMO0030",
+      "time": "2026-05-06 21:03:00",
+      "type": "堂食",
+      "amount": 36,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "猪柳蛋麦满分",
+          "qty": 1,
+          "price": 14
+        },
+        {
+          "name": "中薯条",
+          "qty": 2,
+          "price": 11
+        }
+      ]
+    },
+    {
+      "id": "DEMO0031",
+      "time": "2026-05-07 23:24:00",
+      "type": "堂食",
+      "amount": 39,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "巨无霸套餐",
+          "qty": 1,
+          "price": 39
+        }
+      ]
+    },
+    {
+      "id": "DEMO0032",
+      "time": "2026-05-22 21:50:00",
+      "type": "麦乐送",
+      "amount": 24,
+      "discount": 7,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "板烧鸡腿堡",
+          "qty": 1,
+          "price": 22
+        },
+        {
+          "name": "中可乐",
+          "qty": 1,
+          "price": 9
+        }
+      ]
+    },
+    {
+      "id": "DEMO0033",
+      "time": "2026-06-07 12:39:00",
+      "type": "得来速",
+      "amount": 39,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "巨无霸套餐",
+          "qty": 1,
+          "price": 39
+        }
+      ]
+    },
+    {
+      "id": "DEMO0034",
+      "time": "2026-06-08 21:13:00",
+      "type": "麦乐送",
+      "amount": 41,
+      "discount": 15,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "麦辣鸡腿堡套餐",
+          "qty": 1,
+          "price": 36
+        },
+        {
+          "name": "双层吉士汉堡",
+          "qty": 1,
+          "price": 20
+        }
+      ]
+    },
+    {
+      "id": "DEMO0035",
+      "time": "2026-06-09 09:27:00",
+      "type": "得来速",
+      "amount": 13,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "薯饼",
+          "qty": 1,
+          "price": 7
+        },
+        {
+          "name": "圆筒冰淇淋",
+          "qty": 1,
+          "price": 6
+        }
+      ]
+    },
+    {
+      "id": "DEMO0036",
+      "time": "2026-06-10 22:52:00",
+      "type": "麦乐送",
+      "amount": 14,
+      "discount": 6,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "双层吉士汉堡",
+          "qty": 1,
+          "price": 20
+        }
+      ]
+    },
+    {
+      "id": "DEMO0037",
+      "time": "2026-06-20 23:51:00",
+      "type": "得来速",
+      "amount": 16,
+      "discount": 5,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "薯饼",
+          "qty": 1,
+          "price": 7
+        },
+        {
+          "name": "猪柳蛋麦满分",
+          "qty": 1,
+          "price": 14
+        }
+      ]
+    },
+    {
+      "id": "DEMO0038",
+      "time": "2026-06-25 10:38:00",
+      "type": "麦乐送",
+      "amount": 19,
+      "discount": 4,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "中可乐",
+          "qty": 1,
+          "price": 9
+        },
+        {
+          "name": "麦旋风",
+          "qty": 1,
+          "price": 14
+        }
+      ]
+    },
+    {
+      "id": "DEMO0039",
+      "time": "2026-06-29 20:08:00",
+      "type": "麦乐送",
+      "amount": 14,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "猪柳蛋麦满分",
+          "qty": 1,
+          "price": 14
+        }
+      ]
+    },
+    {
+      "id": "DEMO0040",
+      "time": "2026-07-15 19:54:00",
+      "type": "得来速",
+      "amount": 99,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "薯饼",
+          "qty": 1,
+          "price": 7
+        },
+        {
+          "name": "猪柳蛋麦满分",
+          "qty": 1,
+          "price": 14
+        },
+        {
+          "name": "巨无霸套餐",
+          "qty": 2,
+          "price": 39
+        }
+      ]
+    },
+    {
+      "id": "DEMO0041",
+      "time": "2026-07-18 22:57:00",
+      "type": "堂食",
+      "amount": 57,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "大薯条",
+          "qty": 1,
+          "price": 14
+        },
+        {
+          "name": "麦麦脆汁鸡(2块)",
+          "qty": 1,
+          "price": 32
+        },
+        {
+          "name": "中薯条",
+          "qty": 1,
+          "price": 11
+        }
+      ]
+    },
+    {
+      "id": "DEMO0042",
+      "time": "2026-07-21 20:00:00",
+      "type": "麦乐送",
+      "amount": 48,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "板烧鸡腿堡",
+          "qty": 1,
+          "price": 22
+        },
+        {
+          "name": "美式咖啡",
+          "qty": 1,
+          "price": 12
+        },
+        {
+          "name": "猪柳蛋麦满分",
+          "qty": 1,
+          "price": 14
+        }
+      ]
+    },
+    {
+      "id": "DEMO0043",
+      "time": "2026-07-22 22:06:00",
+      "type": "麦乐送",
+      "amount": 15,
+      "discount": 4,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "玉米杯",
+          "qty": 1,
+          "price": 8
+        },
+        {
+          "name": "中薯条",
+          "qty": 1,
+          "price": 11
+        }
+      ]
+    },
+    {
+      "id": "DEMO0044",
+      "time": "2026-07-24 21:39:00",
+      "type": "得来速",
+      "amount": 50,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "麦麦脆汁鸡(2块)",
+          "qty": 1,
+          "price": 32
+        },
+        {
+          "name": "中薯条",
+          "qty": 1,
+          "price": 11
+        },
+        {
+          "name": "薯饼",
+          "qty": 1,
+          "price": 7
+        }
+      ]
+    },
+    {
+      "id": "DEMO0045",
+      "time": "2026-07-30 19:31:00",
+      "type": "麦乐送",
+      "amount": 22,
+      "discount": 4,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "薯饼",
+          "qty": 2,
+          "price": 7
+        },
+        {
+          "name": "麦乐鸡(5块)",
+          "qty": 1,
+          "price": 12
+        }
+      ]
+    },
+    {
+      "id": "DEMO0046",
+      "time": "2026-07-31 20:35:00",
+      "type": "麦乐送",
+      "amount": 43,
+      "discount": 9,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "麦乐鸡(5块)",
+          "qty": 1,
+          "price": 12
+        },
+        {
+          "name": "双层吉士汉堡",
+          "qty": 1,
+          "price": 20
+        },
+        {
+          "name": "双层吉士汉堡",
+          "qty": 1,
+          "price": 20
+        }
+      ]
+    },
+    {
+      "id": "DEMO0047",
+      "time": "2026-08-01 16:31:00",
+      "type": "麦乐送",
+      "amount": 68,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "猪柳蛋麦满分",
+          "qty": 1,
+          "price": 14
+        },
+        {
+          "name": "巨无霸套餐",
+          "qty": 1,
+          "price": 39
+        },
+        {
+          "name": "拿铁",
+          "qty": 1,
+          "price": 15
+        }
+      ]
+    },
+    {
+      "id": "DEMO0048",
+      "time": "2026-08-09 15:49:00",
+      "type": "堂食",
+      "amount": 11,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "中薯条",
+          "qty": 1,
+          "price": 11
+        }
+      ]
+    },
+    {
+      "id": "DEMO0049",
+      "time": "2026-08-11 23:26:00",
+      "type": "麦乐送",
+      "amount": 39,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "巨无霸套餐",
+          "qty": 1,
+          "price": 39
+        }
+      ]
+    },
+    {
+      "id": "DEMO0050",
+      "time": "2026-08-12 16:26:00",
+      "type": "得来速",
+      "amount": 55,
+      "discount": 12,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "猪柳蛋麦满分",
+          "qty": 1,
+          "price": 14
+        },
+        {
+          "name": "大薯条",
+          "qty": 1,
+          "price": 14
+        },
+        {
+          "name": "巨无霸套餐",
+          "qty": 1,
+          "price": 39
+        }
+      ]
+    },
+    {
+      "id": "DEMO0051",
+      "time": "2026-08-23 20:20:00",
+      "type": "堂食",
+      "amount": 54,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "拿铁",
+          "qty": 1,
+          "price": 15
+        },
+        {
+          "name": "巨无霸套餐",
+          "qty": 1,
+          "price": 39
+        }
+      ]
+    },
+    {
+      "id": "DEMO0052",
+      "time": "2026-08-24 22:54:00",
+      "type": "麦乐送",
+      "amount": 21,
+      "discount": 7,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "猪柳蛋麦满分",
+          "qty": 2,
+          "price": 14
+        }
+      ]
+    },
+    {
+      "id": "DEMO0053",
+      "time": "2026-08-27 16:39:00",
+      "type": "得来速",
+      "amount": 48,
+      "discount": 22,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "麦麦脆汁鸡(2块)",
+          "qty": 2,
+          "price": 32
+        },
+        {
+          "name": "圆筒冰淇淋",
+          "qty": 1,
+          "price": 6
+        }
+      ]
+    },
+    {
+      "id": "DEMO0054",
+      "time": "2026-09-08 13:12:00",
+      "type": "麦乐送",
+      "amount": 16,
+      "discount": 6,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "玉米杯",
+          "qty": 1,
+          "price": 8
+        },
+        {
+          "name": "大薯条",
+          "qty": 1,
+          "price": 14
+        }
+      ]
+    },
+    {
+      "id": "DEMO0055",
+      "time": "2026-09-09 21:31:00",
+      "type": "堂食",
+      "amount": 50,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "苹果派",
+          "qty": 1,
+          "price": 8
+        },
+        {
+          "name": "麦辣鸡腿堡套餐",
+          "qty": 1,
+          "price": 36
+        },
+        {
+          "name": "圆筒冰淇淋",
+          "qty": 1,
+          "price": 6
+        }
+      ]
+    },
+    {
+      "id": "DEMO0056",
+      "time": "2026-09-10 12:00:00",
+      "type": "得来速",
+      "amount": 60,
+      "discount": 10,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "麦旋风",
+          "qty": 1,
+          "price": 14
+        },
+        {
+          "name": "麦麦脆汁鸡(2块)",
+          "qty": 1,
+          "price": 32
+        },
+        {
+          "name": "麦乐鸡(5块)",
+          "qty": 2,
+          "price": 12
+        }
+      ]
+    },
+    {
+      "id": "DEMO0057",
+      "time": "2026-09-12 23:31:00",
+      "type": "堂食",
+      "amount": 32,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "麦辣鸡翅(4块)",
+          "qty": 1,
+          "price": 18
+        },
+        {
+          "name": "圆筒冰淇淋",
+          "qty": 1,
+          "price": 6
+        },
+        {
+          "name": "玉米杯",
+          "qty": 1,
+          "price": 8
+        }
+      ]
+    },
+    {
+      "id": "DEMO0058",
+      "time": "2026-09-14 12:21:00",
+      "type": "麦乐送",
+      "amount": 18,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "麦辣鸡翅(4块)",
+          "qty": 1,
+          "price": 18
+        }
+      ]
+    },
+    {
+      "id": "DEMO0059",
+      "time": "2026-09-16 16:11:00",
+      "type": "麦乐送",
+      "amount": 63,
+      "discount": 11,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "猪柳蛋麦满分",
+          "qty": 2,
+          "price": 14
+        },
+        {
+          "name": "猪柳蛋麦满分",
+          "qty": 1,
+          "price": 14
+        },
+        {
+          "name": "麦麦脆汁鸡(2块)",
+          "qty": 1,
+          "price": 32
+        }
+      ]
+    },
+    {
+      "id": "DEMO0060",
+      "time": "2026-09-23 15:43:00",
+      "type": "麦乐送",
+      "amount": 27,
+      "discount": 0,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "拿铁",
+          "qty": 1,
+          "price": 15
+        },
+        {
+          "name": "麦乐鸡(5块)",
+          "qty": 1,
+          "price": 12
+        }
+      ]
+    },
+    {
+      "id": "DEMO0061",
+      "time": "2026-09-24 20:57:00",
+      "type": "得来速",
+      "amount": 13,
+      "discount": 2,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "圆筒冰淇淋",
+          "qty": 1,
+          "price": 6
+        },
+        {
+          "name": "中可乐",
+          "qty": 1,
+          "price": 9
+        }
+      ]
+    },
+    {
+      "id": "DEMO0062",
+      "time": "2026-09-25 19:00:00",
+      "type": "得来速",
+      "amount": 10,
+      "discount": 5,
+      "store": "示例餐厅",
+      "items": [
+        {
+          "name": "拿铁",
+          "qty": 1,
+          "price": 15
+        }
+      ]
+    }
+  ]
+}
